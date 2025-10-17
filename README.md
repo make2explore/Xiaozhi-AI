@@ -46,6 +46,18 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
+  
+▶️  This Tiny Dev Board is a BEAST! - UNIHIKER 🔗  https://youtube.com/shorts/QtrhFLunwyg  
+
+▶️  Meet the UNIHIKER – Game-Changer for Makers! 🔗  https://youtube.com/shorts/obxuvQ6YX7Y    
+
+-  We have another series of Overview of UNIHIKER M10  
+
+▶️  UNIHIKER K10 - A Screen, a Brain, and Endless Ideas 🔗  https://youtube.com/shorts/Rea6dfLOedc 
+
+▶️  AI on One Board - UNIHIKER K10 Live Demo 🔗  https://youtube.com/shorts/Fx6sVipr4rA   
+
+#### M5Stack Core S3
 
 ▶️  CoreS3 - This Dev Kit Can See, Hear, and Think 🤖 🔗 https://youtube.com/shorts/lISfTsS8O2Q   
   
@@ -55,6 +67,8 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
+
+🌐 Documentation - 🔗 https://www.unihiker.com/  
  
 🌐 M5Stack - 🔗 https://docs.m5stack.com  
 📒 CoreS3 🔗 http://docs.m5stack.com/en/core/CoreS3  
@@ -63,9 +77,7 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 ⚙️ Arduino IDE Docs 🔗 https://docs.m5stack.com/en/arduino/arduino_ide  
 📘 UIFLow2 Web IDE - 🔗 https://uiflow2.m5stack.com/  
 
-🧰 Hardware  
---   [CoreS3-Store]  🔗 https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit  
---   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor  
+
 
 ------------------------------------------------------------------------------------------------------
 
