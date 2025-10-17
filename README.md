@@ -56,7 +56,8 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 ▶️  UNIHIKER K10 - A Screen, a Brain, and Endless Ideas 🔗  https://youtube.com/shorts/Rea6dfLOedc 
 
 ▶️  AI on One Board - UNIHIKER K10 Live Demo 🔗  https://youtube.com/shorts/Fx6sVipr4rA   
-
+  
+  
 #### M5Stack Core S3
 
 ▶️  CoreS3 - This Dev Kit Can See, Hear, and Think 🤖 🔗 https://youtube.com/shorts/lISfTsS8O2Q   
@@ -69,21 +70,19 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 📒 **Important Links**  
 
 🌐 Documentation - 🔗 https://www.unihiker.com/  
- 
-🌐 M5Stack - 🔗 https://docs.m5stack.com  
+
 📒 CoreS3 🔗 http://docs.m5stack.com/en/core/CoreS3  
-📙 CoreS3 Purchase 🔗 https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit  
-⚙️ UIFLow2 Web IDE Docs🔗 https://docs.m5stack.com/en/uiflow2/cardputer/program  
-⚙️ Arduino IDE Docs 🔗 https://docs.m5stack.com/en/arduino/arduino_ide  
-📘 UIFLow2 Web IDE - 🔗 https://uiflow2.m5stack.com/  
 
+📙 https://github.com/make2explore/UNIHIKER-Overview  
 
-
+📙 https://github.com/make2explore/M5Stack-CoreS3
+ 
 ------------------------------------------------------------------------------------------------------
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/M5Stack-CoreS3   
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/Xiaozhi-AI  
+
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
