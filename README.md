@@ -31,25 +31,11 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 - [CoreS3](http://docs.m5stack.com/en/core/CoreS3)   
   
 **Software**
-- Arduino  
+- UNIHIKER K10  
+    [Jupyter Notebook](https://www.unihiker.com/wiki/GettingStarted/gettingstarted_jupyternotebook/)  
+
+- CoreS3    
     [CoreS3 Arduino IDE Tutorial](http://docs.m5stack.com/en/arduino/arduino_ide)  
-    [CoreS3 Arduino Library](https://github.com/m5stack/M5CoreS3)  
-    [CoreS3 User Demo](https://github.com/m5stack/CoreS3-UserDemo/tree/main/firmware)  
-  
-- PlatformIO  
-    [CoreS3 User Demo](https://github.com/m5stack/CoreS3-UserDemo/tree/main/firmware)  
-  
-- ESP-IDF  
-    [Espressif's Board Support Packages - CoreS3](https://github.com/espressif/esp-bsp/tree/master/bsp/m5stack_core_s3)  
-    [CoreS3 ESP-IDF BSP Tutorial](http://docs.m5stack.com/en/esp_idf/m5cores3/bsp)  
-  
-- Graphical Programming  
-    CoreS3 Quick Start Guide  
-    [UiFlow2](http://docs.m5stack.com/en/uiflow2/uiflow_web)  
-    
-- Home Assistant  
-    This tutorial will introduce you to how to connect CoreS3 to Home Assistant  
-    [Home Assistant Tutorial](http://docs.m5stack.com/en/guide/homeassistant/m5cores3/m5cores3_quick_start)  
     
 - Other Quick Start Guides  
     [CoreS3 OpenAI Voice Assistant](http://docs.m5stack.com/en/guide/realtime/openai/m5cores3)   
