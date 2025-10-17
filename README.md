@@ -1,13 +1,19 @@
 # Xiaozhi-AI 🤖
-Getting Started with Xiaozhi AI ChatBot on ESP32-S3 based Dev Boards
+Getting Started with Xiaozhi AI ChatBot on ESP32-S3 based Dev Boards  
+
+  
+## UNIHIKER K10  
   
 <img src="/Images/UNIHIKER.jpg" height="200">
   
 **UNIHIKER** is a series of new-generation learning devices specifically designed for exploring artificial intelligence, while also supports coding, scientific exploration, and IoT applications. Equipped with a large color screen, integrated Wi-Fi, Bluetooth, various sensors, and extensive expansion interfaces, they offer a brand-new experience. Currently, the UNIHIKER series includes two models: UNIHIKER K10 and UNIHIKER M10.  
+  
 <img src="/Images/UNIHIKERback.png" height="200">
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------  
    
+## M5Stack CoreS3   
+  
 <**M5Stack CoreS3** is a compact, powerful IoT development kit based on the ESP32-S3 dual-core processor, ideal for AI, edge computing, and smart device prototyping. It features a 2-inch capacitive touch IPS display, 16MB flash, 8MB PSRAM, built-in camera, dual microphones, speaker, and multiple sensors including IMU, magnetometer, and proximity sensor. With support for Wi-Fi, USB-C OTG, MicroSD, and Grove/M-Bus expansion, it's programmable via Arduino, MicroPython, or UIFlow, making it a versatile all-in-one solution for embedded and AIoT applications.
   
 <img src="/Images/CoreS3-1.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-2.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-3.jpg" height="200" > 
