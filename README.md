@@ -1,4 +1,4 @@
-# Xiaozhi-AI
+# Xiaozhi-AI 🤖
 Getting Started with Xiaozhi AI ChatBot on ESP32-S3 based Dev Boards
   
 <img src="/Images/UNIHIKER.jpg" height="200">
