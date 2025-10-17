@@ -14,16 +14,16 @@ Getting Started with Xiaozhi AI ChatBot on ESP32-S3 based Dev Boards
    
 ## Xiaozhi-AI on M5Stack CoreS3   
   
-<**M5Stack CoreS3** is a compact, powerful IoT development kit based on the ESP32-S3 dual-core processor, ideal for AI, edge computing, and smart device prototyping. It features a 2-inch capacitive touch IPS display, 16MB flash, 8MB PSRAM, built-in camera, dual microphones, speaker, and multiple sensors including IMU, magnetometer, and proximity sensor. With support for Wi-Fi, USB-C OTG, MicroSD, and Grove/M-Bus expansion, it's programmable via Arduino, MicroPython, or UIFlow, making it a versatile all-in-one solution for embedded and AIoT applications.
+**M5Stack CoreS3** is a compact, powerful IoT development kit based on the ESP32-S3 dual-core processor, ideal for AI, edge computing, and smart device prototyping. It features a 2-inch capacitive touch IPS display, 16MB flash, 8MB PSRAM, built-in camera, dual microphones, speaker, and multiple sensors including IMU, magnetometer, and proximity sensor. With support for Wi-Fi, USB-C OTG, MicroSD, and Grove/M-Bus expansion, it's programmable via Arduino, MicroPython, or UIFlow, making it a versatile all-in-one solution for embedded and AIoT applications.
   
 <img src="/Images/CoreS3-1.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-2.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-3.jpg" height="200" > 
 
   
 ## Documentation
 
-Refer the [Documentation website](https://www.unihiker.com/) for more information.  
+Refer the [UNIHIKER Documentation website](https://www.unihiker.com/) for more information.  
   
-Refer the [Documentation website](http://docs.m5stack.com/en/core/CoreS3) for more information.  
+Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3) for more information.  
 
 **Hardware**
 - [UNIHIKER M10](https://www.unihiker.com/)
