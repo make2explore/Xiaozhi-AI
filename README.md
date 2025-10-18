@@ -8,7 +8,7 @@ Getting Started with Xiaozhi AI ChatBot on ESP32-S3 based Dev Boards
   
 **UNIHIKER** is a series of new-generation learning devices specifically designed for exploring artificial intelligence, while also supports coding, scientific exploration, and IoT applications. Equipped with a large color screen, integrated Wi-Fi, Bluetooth, various sensors, and extensive expansion interfaces, they offer a brand-new experience. Currently, the UNIHIKER series includes two models: UNIHIKER K10 and UNIHIKER M10.  
 
-------------------------------------------------------------------------------------------------------------------------------------------------------  
+------------------
    
 ### Xiaozhi-AI on M5Stack CoreS3   
   
