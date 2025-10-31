@@ -50,7 +50,7 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 
 ▶️ Xiaozhi AI Unleashed: The UNIHIKER K10 Does It All - 🔗 https://youtube.com/shorts/fQ9zJjb6LdI    
   
-▶️ AI ChatBot on The M5Stack Core-S3 - 🔗 https://youtube.com/shorts/5S2VgR-tYXg    
+▶️ Talking to My M5Stack! Xiaozhi AI Chatbot in Action 🔥 - 🔗 https://youtube.com/shorts/5S2VgR-tYXg    
   
 #### UNIHIKER  
   
