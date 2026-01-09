@@ -86,6 +86,13 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
 
+📖 Xiaozhi AI Chatbot Official Repo - 🔗 https://github.com/78/xiaozhi-esp32  
+
+💾 Firmware for UNIHIKER K10 - 🔗 https://community.dfrobot.com/makelog-317317.html  
+  
+
+Hardware Documentation  
+
 🌐 Documentation - 🔗 https://www.unihiker.com/  
 
 📒 CoreS3 🔗 http://docs.m5stack.com/en/core/CoreS3  
