@@ -58,6 +58,8 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
   
 ▶️ AI in the Palm of Your Hand – Xiaozhi on M5Stack Core-S3 🔥 - 🔗 https://youtube.com/shorts/5S2VgR-tYXg    
   
+------------------------------------------------------------------------------------------------------
+  
 ### Hardware Overviews
   
 #### UNIHIKER  
