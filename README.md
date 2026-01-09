@@ -46,7 +46,8 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 
 📕 **YouTube Video Links**  
   
-#### Xiaozhi-AI Detailed Tutorial of setup, deploy and configure 🤖  
+### Xiaozhi-AI Detailed Tutorials 🤖 
+  
   
 ▶️ Xiaozhi AI Chatbot on UNIHIKER K10 - 🔗 https://youtu.be/PnkaDgfcjJc    
   
@@ -57,7 +58,7 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
   
 ▶️ AI in the Palm of Your Hand – Xiaozhi on M5Stack Core-S3 🔥 - 🔗 https://youtube.com/shorts/5S2VgR-tYXg    
   
-
+### Hardware Overviews
   
 #### UNIHIKER  
   
