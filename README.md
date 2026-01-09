@@ -4,7 +4,9 @@ Getting Started with Xiaozhi AI ChatBot on ESP32-S3 based Dev Boards
   
 ### Xiaozhi-AI on UNIHIKER K10  
   
-<img src="/Images/UNIHIKER.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/UNIHIKERback.png" height="200">
+<img src="/Images/UNIHIKER.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/UNIHIKERback.png" height="200">  
+  
+The **Xiaozhi AI chatbot** is an open-source hardware project based on ESP32 microcontrollers that allows users to build a customizable, voice-activated AI companion.
   
 **UNIHIKER** is a series of new-generation learning devices specifically designed for exploring artificial intelligence, while also supports coding, scientific exploration, and IoT applications. Equipped with a large color screen, integrated Wi-Fi, Bluetooth, various sensors, and extensive expansion interfaces, they offer a brand-new experience. Currently, the UNIHIKER series includes two models: UNIHIKER K10 and UNIHIKER M10.  
 
