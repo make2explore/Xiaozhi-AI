@@ -51,7 +51,7 @@ Refer the [M5Stack Documentation website](http://docs.m5stack.com/en/core/CoreS3
 #### Xiaozhi-AI Detailed Tutorials 🤖  
   
   
-▶️ Xiaozhi AI Chatbot on UNIHIKER K10 - 🔗 https://youtu.be/PnkaDgfcjJc    
+▶️ How to build your own Voice + Vision AI Assistant - 🔗 https://youtu.be/PnkaDgfcjJc    
   
   
 #### Xiaozhi-AI Shorts 🤖  
